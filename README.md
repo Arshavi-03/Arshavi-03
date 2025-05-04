@@ -82,13 +82,6 @@ const arshavi = {
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=Arshavi-03&theme=radical" alt="Activity Graph">
 </div>
 
-## 🎯 Featured Projects
-
-<div align="center">
-  <a href="https://github.com/Arshavi-03">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Arshavi-03&repo=Arshavi-03&theme=radical" alt="Profile Repo">
-  </a>
-</div>
 
 ### 🌟 Project Highlights
 
@@ -130,20 +123,6 @@ const arshavi = {
 - 🌐 **Complete Web Development** - Internshala
 - 🤖 **AI & ML, Data Science Bootcamp** - Professional Certificate
 
-<div align="center">
-  <h3>📊 LeetCode Stats</h3>
-  <p>
-    <strong>Rating:</strong> 1666 (Top 15.59%)<br>
-    <strong>Problems Solved:</strong> 200+
-  </p>
-  <a href="https://leetcode.com/u/arshaviroy/">
-    <img src="https://img.shields.io/badge/View%20Profile-LeetCode-orange?style=for-the-badge&logo=leetcode" alt="LeetCode Profile">
-  </a>
-</div>
-<!-- Girl with Laptop GIF -->
-<div align="center">
-  <img src="https://media.giphy.com/media/du3J3cXyzhj75IOgvA/giphy.gif" width="400" alt="Working Girl">
-</div>
 
 ## 🤝 Let's Connect!
 
