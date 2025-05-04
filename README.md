@@ -9,17 +9,21 @@
 <div align="center">
   <img src="https://komarev.com/ghpvc/?username=Arshavi-03&color=blueviolet&style=for-the-badge" alt="Profile Views">
   <a href="mailto:arshaviroy@gmail.com"><img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"></a>
-  <a href="https://www.linkedin.com/in/yourlinkedin"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
+  <a href="https://www.linkedin.com/in/arshavi-roy-730406265/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
   <a href="https://github.com/Arshavi-03"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"></a>
-  <a href="https://yourportfolio.com"><img src="https://img.shields.io/badge/Portfolio-4285F4?style=for-the-badge&logo=google-chrome&logoColor=white" alt="Portfolio"></a>
+  <a href="https://leetcode.com/u/arshaviroy/"><img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" alt="LeetCode"></a>
 </div>
 
-<img src="https://raw.githubusercontent.com/Arshavi-03/Arshavi-03/output/github-contribution-grid-snake.svg" alt="Snake animation">
+<!-- Pretty Coding Girl GIF -->
+<div align="center">
+  <img src="https://media.giphy.com/media/L1R1tvI9svkIWwpVYr/giphy.gif" width="500" alt="Girl Coding">
+</div>
 
 ## 🚀 About Me
 
 ```javascript
 const arshavi = {
+    pronouns: "She/Her 💁‍♀️",
     location: "Kolkata, India 🇮🇳",
     education: "B.Tech in CSE @ Narula Institute of Technology",
     currentCGPA: "9.00/10 ⭐",
@@ -35,7 +39,7 @@ const arshavi = {
 ## 🛠️ Tech Stack
 
 <div align="center">
-  <img src="https://skillicons.dev/icons?i=c,cpp,java,python,javascript,typescript,html,css,nodejs,react,nextjs,mongodb,mysql,aws,tensorflow,pytorch,github,git,vscode,jupyter,linux" alt="Skills">
+  <img src="https://skillicons.dev/icons?i=c,cpp,java,python,javascript,typescript,html,css,nodejs,react,nextjs,mongodb,mysql,aws,tensorflow,pytorch,github,git,vscode,jupyter" alt="Skills">
 </div>
 
 <div align="center">
@@ -78,15 +82,19 @@ const arshavi = {
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=Arshavi-03&theme=radical" alt="Activity Graph">
 </div>
 
+## 🎯 Featured Projects
+
+<div align="center">
+  <a href="https://github.com/Arshavi-03">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Arshavi-03&repo=Arshavi-03&theme=radical" alt="Profile Repo">
+  </a>
+</div>
+
 ### 🌟 Project Highlights
 
 #### 💰 Finergize - Financial Inclusion Platform
 
 <img src="https://img.shields.io/badge/Stack-Next.js|MongoDB|Blockchain-purple?style=for-the-badge" alt="Tech Stack">
-
-```
-🚀 150+ stars | 🔀 40+ forks | 💫 Active development
-```
 
 - **ML-based loan assessment**: 95% accuracy using XGBoost
 - **Digital wallet system**: 1000+ daily transactions, 99.9% uptime
@@ -97,13 +105,14 @@ const arshavi = {
 
 <img src="https://img.shields.io/badge/Stack-Next.js|Three.js|AWS-green?style=for-the-badge" alt="Tech Stack">
 
-```
-🌟 100+ stars | 🔀 30+ forks | 🎮 Interactive 3D experience
-```
-
 - **AI plant recognition**: 98% accuracy with CNN
 - **3D interactive models**: WebGL-based visualization
 - **E-commerce integration**: Plant-based products marketplace
+
+<!-- Cute Programmer GIF -->
+<div align="center">
+  <img src="https://github.com/SP-XD/SP-XD/blob/main/images/dev-working_rounded.gif?raw=true" width="400" alt="Working Girl">
+</div>
 
 ## 🏆 Achievements & Certifications
 
@@ -127,11 +136,12 @@ const arshavi = {
   <img src="https://leetcode-stats-six.vercel.app/api?username=arshaviroy&theme=dark" alt="LeetCode Stats">
 </div>
 
-## 🤝 Let's Connect!
-
+<!-- Girl with Laptop GIF -->
 <div align="center">
-  <img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake.svg" alt="Snake animation" />
+  <img src="https://media.giphy.com/media/du3J3cXyzhj75IOgvA/giphy.gif" width="400" alt="Working Girl">
 </div>
+
+## 🤝 Let's Connect!
 
 <div align="center">
   <h3>💡 "Technology should make life easier, not harder."</h3>
