@@ -107,21 +107,12 @@ const arshavi = {
   <img src="https://github.com/SP-XD/SP-XD/blob/main/images/dev-working_rounded.gif?raw=true" width="400" alt="Working Girl">
 </div>
 
-## 🏆 Achievements & Certifications
 
 <div align="center">
   <img src="https://img.shields.io/badge/LeetCode_Rating-1666-orange?style=for-the-badge&logo=leetcode" alt="LeetCode">
   <img src="https://img.shields.io/badge/Rank-Top 15.59%25-success?style=for-the-badge" alt="Rank">
   <img src="https://img.shields.io/badge/Problems_Solved-200+-brightgreen?style=for-the-badge" alt="Problems">
 </div>
-
-### 📜 Certifications
-
-- 🎓 **Machine Learning Specialization** - Stanford Online & DeepLearning.AI
-- 🚀 **IIT Kharagpur AI4ICPS** Certificate Programme
-- 🛠️ **Object-Oriented Data Structures in C++** - UIUC
-- 🌐 **Complete Web Development** - Internshala
-- 🤖 **AI & ML, Data Science Bootcamp** - Professional Certificate
 
 
 ## 🤝 Let's Connect!
