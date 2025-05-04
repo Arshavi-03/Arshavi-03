@@ -130,12 +130,16 @@ const arshavi = {
 - 🌐 **Complete Web Development** - Internshala
 - 🤖 **AI & ML, Data Science Bootcamp** - Professional Certificate
 
-## 📈 Coding Activity
-
 <div align="center">
-  <img src="https://leetcode-stats-six.vercel.app/api?username=arshaviroy&theme=dark" alt="LeetCode Stats">
+  <h3>📊 LeetCode Stats</h3>
+  <p>
+    <strong>Rating:</strong> 1666 (Top 15.59%)<br>
+    <strong>Problems Solved:</strong> 200+
+  </p>
+  <a href="https://leetcode.com/u/arshaviroy/">
+    <img src="https://img.shields.io/badge/View%20Profile-LeetCode-orange?style=for-the-badge&logo=leetcode" alt="LeetCode Profile">
+  </a>
 </div>
-
 <!-- Girl with Laptop GIF -->
 <div align="center">
   <img src="https://media.giphy.com/media/du3J3cXyzhj75IOgvA/giphy.gif" width="400" alt="Working Girl">
