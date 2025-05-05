@@ -21,17 +21,16 @@
 
 ## 🚀 About Me
 
-```javascript
-const arshavi = {
-    pronouns: "She/Her 💁‍♀️",
-    location: "Kolkata, India 🇮🇳",
-    education: "B.Tech in CSE @ Narula Institute of Technology",
-    currentCGPA: "9.00/10 ⭐",
-    passions: ["AI & ML", "Financial Technology", "Web Development"],
-    currentFocus: ["Building Finergize", "Solving LeetCode", "Learning AWS"],
-    funFact: "I turn financial problems into technological solutions! 💡",
+```yaml
+arshavi:
+    pronouns: "She/Her 💁‍♀️"
+    location: "Kolkata, India 🇮🇳"
+    education: "B.Tech in CSE @ Narula Institute of Technology"
+    currentCGPA: "9.00/10 ⭐"
+    passions: ["AI & ML", "Financial Technology", "Web Development"]
+    currentFocus: ["Building Finergize", "Solving LeetCode", "Learning AWS"]
+    funFact: "I turn financial problems into technological solutions! 💡"
     askMeAbout: ["Web Development", "Machine Learning", "Blockchain", "DSA"]
-};
 ```
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" alt="wave">
@@ -67,6 +66,54 @@ const arshavi = {
   <img src="https://img.shields.io/badge/Polygon-7B3FE4?style=for-the-badge&logo=polygon&logoColor=white" alt="Polygon">
 </div>
 
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" alt="wave">
+
+## 🌟 Project Highlights
+
+<table align="center">
+<tr>
+<td width="50%" valign="top">
+
+### 💰 Finergize - Financial Inclusion Platform
+
+<p align="center">
+  <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white" alt="Next.js">
+  <img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white" alt="MongoDB">
+  <img src="https://img.shields.io/badge/Polygon-7B3FE4?style=for-the-badge&logo=polygon&logoColor=white" alt="Polygon">
+</p>
+
+- **ML-based loan assessment**: 95% accuracy using XGBoost
+- **Digital wallet system**: 1000+ daily transactions, 99.9% uptime
+- **Blockchain integration**: Polygon smart contracts
+- **Agentic AI chatbot**: Multilingual support for rural users
+
+</td>
+<td width="50%" valign="top">
+
+### 🌿 Virtual Herbal Garden
+
+<p align="center">
+  <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white" alt="Next.js">
+  <img src="https://img.shields.io/badge/Three.js-000000?style=for-the-badge&logo=threedotjs&logoColor=white" alt="Three.js">
+  <img src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonwebservices&logoColor=white" alt="AWS">
+</p>
+
+- **AI plant recognition**: 98% accuracy with CNN
+- **3D interactive models**: WebGL-based visualization
+- **E-commerce integration**: Plant-based products marketplace
+
+<p align="center">
+  <a href="https://github.com/Manaswita10/Virtual-Herbal-Garden">
+    <img src="https://img.shields.io/badge/View_Repository-181717?style=for-the-badge&logo=github&logoColor=white" alt="View Repository">
+  </a>
+</p>
+
+</td>
+</tr>
+</table>
+
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" alt="wave">
+
 ## 📊 GitHub Statistics
 
 <div align="center">
@@ -82,38 +129,22 @@ const arshavi = {
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=Arshavi-03&theme=radical" alt="Activity Graph">
 </div>
 
-
-### 🌟 Project Highlights
-
-#### 💰 Finergize - Financial Inclusion Platform
-
-<img src="https://img.shields.io/badge/Stack-Next.js|MongoDB|Blockchain-purple?style=for-the-badge" alt="Tech Stack">
-
-- **ML-based loan assessment**: 95% accuracy using XGBoost
-- **Digital wallet system**: 1000+ daily transactions, 99.9% uptime
-- **Blockchain integration**: Polygon smart contracts
-- **Agentic AI chatbot**: Multilingual support for rural users
-
-#### 🌿 Virtual Herbal Garden
-
-<img src="https://img.shields.io/badge/Stack-Next.js|Three.js|AWS-green?style=for-the-badge" alt="Tech Stack">
-
-- **AI plant recognition**: 98% accuracy with CNN
-- **3D interactive models**: WebGL-based visualization
-- **E-commerce integration**: Plant-based products marketplace
-
 <!-- Cute Programmer GIF -->
 <div align="center">
   <img src="https://github.com/SP-XD/SP-XD/blob/main/images/dev-working_rounded.gif?raw=true" width="400" alt="Working Girl">
 </div>
 
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" alt="wave">
+
+## 💪 LeetCode Journey
 
 <div align="center">
   <img src="https://img.shields.io/badge/LeetCode_Rating-1666-orange?style=for-the-badge&logo=leetcode" alt="LeetCode">
-  <img src="https://img.shields.io/badge/Rank-Top 15.59%25-success?style=for-the-badge" alt="Rank">
+  <img src="https://img.shields.io/badge/Rank-Top_15.59%25-success?style=for-the-badge" alt="Rank">
   <img src="https://img.shields.io/badge/Problems_Solved-200+-brightgreen?style=for-the-badge" alt="Problems">
 </div>
 
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" alt="wave">
 
 ## 🤝 Let's Connect!
 
