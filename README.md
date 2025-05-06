@@ -122,7 +122,9 @@ arshavi:
 </div>
 
 <div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Arshavi-03&theme=radical" alt="GitHub Streak">
+  <a href="https://git.io/streak-stats">
+    <img src="https://github-readme-streak-stats-eight.vercel.app/?user=Arshavi-03&theme=radical&hide_border=true&background=0D1117&stroke=9645F4&ring=9A3B9C&fire=F94A9A&currStreakNum=FFFFFF&sideNums=9A3B9C&currStreakLabel=F94A9A&sideLabels=9A3B9C&dates=A1A1AA" alt="Arshavi's GitHub Streak"/>
+  </a>
 </div>
 
 <div align="center">
