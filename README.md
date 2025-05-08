@@ -191,6 +191,7 @@ arshavi:
 </div>
 
 
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" alt="wave">
 
 ## 💪 LeetCode Journey
 
@@ -205,48 +206,14 @@ arshavi:
 ## 😂 Developer Jokes
 
 <div align="center">
-  <!-- Custom styled developer jokes with proper formatting -->
-  <table border="0" align="center">
-    <tr>
-      <td>
-        <div style="border: 2px solid #9A3B9C; border-radius: 10px; padding: 15px; margin: 10px; background-color: #121212; color: #fff;">
-          <h3 style="color: #F94A9A;">Q: How did the developer announce their engagement?</h3>
-          <h3 style="color: #9A3B9C;">A: They <span style="color: #F7DF1E; font-family: monospace;">returned true</span>!</h3>
-        </div>
-      </td>
-    </tr>
-    <tr>
-      <td>
-        <div style="border: 2px solid #9A3B9C; border-radius: 10px; padding: 15px; margin: 10px; background-color: #121212; color: #fff;">
-          <h3 style="color: #F94A9A;">Q: How do JavaScript developers break up?</h3>
-          <h3 style="color: #9A3B9C;">A: They always promise to <span style="color: #F7DF1E; font-family: monospace;">callback</span>!</h3>
-        </div>
-      </td>
-    </tr>
-    <tr>
-      <td>
-        <div style="border: 2px solid #9A3B9C; border-radius: 10px; padding: 15px; margin: 10px; background-color: #121212; color: #fff;">
-          <h3 style="color: #F94A9A;">Q: Why do programmers always mix up Christmas and Halloween?</h3>
-          <h3 style="color: #9A3B9C;">A: Because <span style="color: #F7DF1E; font-family: monospace;">Oct 31 == Dec 25</span>!</h3>
-        </div>
-      </td>
-    </tr>
-    <tr>
-      <td>
-        <div style="border: 2px solid #9A3B9C; border-radius: 10px; padding: 15px; margin: 10px; background-color: #121212; color: #fff;">
-          <h3 style="color: #F94A9A;">Q: Why was the developer always broke?</h3>
-          <h3 style="color: #9A3B9C;">A: They used up all their <span style="color: #F7DF1E; font-family: monospace;">cache</span>!</h3>
-        </div>
-      </td>
-    </tr>
-  </table>
-
-  <!-- Random meme/joke image that actually renders -->
-  <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px" height="30px"> 
-  <br>
-  <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Smilies/Rolling%20on%20the%20Floor%20Laughing.png" width="40" height="40" alt="Laughing"> 
-  <span style="font-weight: bold; font-size: 24px;">A new joke loads every time you refresh!</span>
+  <a href="https://readme-jokes.vercel.app/api" target="_blank">
+    <img src="https://readme-jokes.vercel.app/api?bgColor=%23ffffff&textColor=%23000000&qColor=%23F94A9A&aColor=%239A3B9C&borderColor=%239A3B9C" alt="Readme Jokes">
+  </a>
 </div>
+
+<p align="center">
+  <b>↑ The joke changes every time you refresh the page! ↑</b>
+</p>
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" alt="wave">
 
@@ -260,11 +227,7 @@ arshavi:
   <img src="https://img.shields.io/badge/Looking_for-Internships-green?style=for-the-badge" alt="Looking for Internships">
 </div>
 
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" alt="wave">
 
-<div align="center">
-  <i>⭐️ From <a href="https://github.com/Arshavi-03">Arshavi Roy</a></i>
-</div>
 
 <!-- COMPLETELY NEW FOOTER DESIGN -->
 <img width="100%" src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" alt="animated line">
